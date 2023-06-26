@@ -50,15 +50,15 @@ export default function Footer() {
         <h3>contact info</h3>
         <div className="info">
           <i className="fas fa-phone"></i>
-          <p> +91-9999999999 <br /> </p>
+          <p> +91-9334138650 <br /> </p>
         </div>
         <div className="info">
           <i className="fas fa-envelope"></i>
-          <p> teamnewbies@gmail.com <br /></p>
+          <p> techit1730@gmail.com <br /></p>
         </div>
         <div className="info">
           <i className="fas fa-map-marker-alt"></i>
-          <p> Tirupati, India - 517501 </p>
+          <p> Vit Chennai, India - 600127 </p>
         </div>
       </div>
 
