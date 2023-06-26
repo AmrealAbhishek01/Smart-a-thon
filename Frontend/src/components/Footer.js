@@ -64,7 +64,7 @@ export default function Footer() {
 
     </div>
 
-    <h1 className="credit"> &copy; copyright @ 2023 by The Newbies </h1>
+    <h1 className="credit"> &copy; copyright @ 2023 by Abhiti </h1>
 
   </div>
   </>
